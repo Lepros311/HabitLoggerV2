@@ -460,7 +460,8 @@ void DeleteHabit(SQLiteConnection connection)
     int habitId = 0;
     do
     {
-        GetHabitId(connection, habitId);
+        Console.Write("\nEnter the ID of the habit you want to delete: ");
+        habitId = GetHabitId(connection, habitId);
     } while (isValidInput == false);
 
     string? confirmation;

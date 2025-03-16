@@ -40,3 +40,4 @@ C:\Users\Andrew\Documents\coding stuff\C#\The C# Academy\HabitLogger2\bin\Debug\
 C:\Users\Andrew\Documents\coding stuff\C#\The C# Academy\HabitLogger2\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
 C:\Users\Andrew\Documents\coding stuff\C#\The C# Academy\HabitLogger2\obj\Debug\net8.0\HabitLogger2.csproj.AssemblyReference.cache
 C:\Users\Andrew\Documents\coding stuff\C#\The C# Academy\HabitLogger2\obj\Debug\net8.0\HabitLog.A4F2B437.Up2Date
+C:\Users\Andrew\Documents\coding stuff\C#\The C# Academy\HabitLogger2\obj\Debug\net8.0\HabitLogger2.sourcelink.json
